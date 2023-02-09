@@ -1,1 +1,1 @@
-THIS REPOSITORY IS FOR ALX SYSTEM ENGINEERING DEVOP
+ script that prints the absolute path name of the current working directory
